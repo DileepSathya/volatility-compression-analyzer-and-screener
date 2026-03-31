@@ -1,0 +1,1005 @@
+[2026-03-02-10:50:23]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-10:50:23]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-10:50:27]: Compression_screener_logger-INFO-Successfully retrieved login configuration.:
+[2026-03-02-10:50:47]: Compression_screener_logger-INFO-Access token and timestamp saved successfully in config.yaml:
+[2026-03-02-10:50:47]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-10:54:05]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-10:54:05]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-10:54:07]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-02-10:54:07]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-10:54:07]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-02-10:54:07]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-10:54:07]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-10:54:07]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-10:54:07]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-02-11:04:17]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-11:04:17]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-11:04:19]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-02-11:04:19]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-11:04:19]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-02-11:04:19]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-11:04:19]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-11:04:19]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-11:04:19]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-02-11:04:44]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-11:04:44]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-11:04:46]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-02-11:04:46]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-11:04:46]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-02-11:04:46]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-11:04:46]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-11:04:46]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-11:04:46]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-02-11:04:46]: Compression_screener_logger-INFO------ Historical Data Retrieval - Stage -----:
+[2026-03-02-11:04:46]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-11:04:46]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-11:04:46]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-11:04:46]: Compression_screener_logger-ERROR-Historical Data Retrieval - Stage failed: 'DataRetrieval' object has no attribute 'hist_data':
+Traceback (most recent call last):
+  File "C:\Users\Dileep Sathya\OneDrive\Desktop\financial markets\compression_screener\main.py", line 36, in historical_data
+    retriever.hist_data()
+AttributeError: 'DataRetrieval' object has no attribute 'hist_data'
+[2026-03-02-11:05:02]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-11:05:02]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-11:05:02]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-02-11:05:02]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-11:05:02]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-02-11:05:02]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-11:05:02]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-11:05:02]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-11:05:02]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-02-11:05:02]: Compression_screener_logger-INFO------ Historical Data Retrieval - Stage -----:
+[2026-03-02-11:05:02]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-11:05:02]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-11:05:02]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-11:05:02]: Compression_screener_logger-ERROR-Historical Data Retrieval - Stage failed: 'DataRetrieval' object has no attribute 'hist_data':
+Traceback (most recent call last):
+  File "C:\Users\Dileep Sathya\OneDrive\Desktop\financial markets\compression_screener\main.py", line 36, in historical_data
+    retriever.hist_data()
+AttributeError: 'DataRetrieval' object has no attribute 'hist_data'
+[2026-03-02-11:06:06]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-11:06:06]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-11:06:07]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-02-11:06:07]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-11:06:07]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-02-11:06:07]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-11:06:07]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-11:06:07]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-11:06:43]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-02-11:07:06]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-11:07:06]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-11:07:06]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-02-11:07:06]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-11:07:06]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-02-11:07:06]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-11:07:06]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-11:07:06]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-11:07:11]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-02-11:08:35]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-11:08:35]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-11:08:36]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-02-11:08:36]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-11:08:36]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-02-11:08:36]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-11:08:36]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-11:08:36]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-11:08:37]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-02-11:09:19]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-11:09:19]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-11:09:21]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-02-11:09:21]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-11:09:21]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-02-11:09:21]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-11:09:21]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-11:09:21]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-11:09:23]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-02-11:20:21]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-11:20:21]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-11:20:22]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-02-11:20:22]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-11:20:22]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-02-11:20:22]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-11:20:22]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-11:20:22]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-11:20:26]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-02-11:20:26]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-02-11:21:24]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-11:21:24]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-11:21:24]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-02-11:21:24]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-11:21:24]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-02-11:21:24]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-11:21:24]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-11:21:24]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-11:21:25]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-02-11:21:25]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-02-11:21:41]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-11:21:41]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-11:21:42]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-02-11:21:42]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-11:21:42]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-02-11:21:42]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-11:21:42]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-11:21:42]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-11:21:43]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-02-11:21:43]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-02-11:22:04]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-11:22:04]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-11:22:06]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-02-11:22:06]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-11:22:06]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-02-11:22:06]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-11:22:06]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-11:22:06]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-11:22:07]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-02-11:22:07]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-02-11:23:14]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-11:23:14]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-11:23:15]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-02-11:23:15]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-11:23:15]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-02-11:23:15]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-11:23:15]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-11:23:15]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-11:23:16]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-02-11:23:17]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-02-11:28:35]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-11:28:35]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-11:28:38]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-02-11:28:38]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-11:28:38]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-02-11:28:38]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-11:28:38]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-11:28:38]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-11:29:06]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-02-11:29:06]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-02-11:29:19]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-11:29:19]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-11:29:21]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-02-11:29:21]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-11:29:21]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-02-11:29:21]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-11:29:21]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-11:29:21]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-11:29:24]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-02-11:29:24]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-02-11:29:48]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-11:29:48]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-11:29:50]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-02-11:29:50]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-11:29:50]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-02-11:29:50]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-11:29:50]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-11:29:50]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-11:29:54]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-02-11:29:55]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-02-11:30:36]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-11:30:36]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-11:30:38]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-02-11:30:38]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-11:30:38]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-02-11:30:38]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-11:30:38]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-11:30:38]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-11:30:41]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-02-11:30:41]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-02-11:46:22]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-11:46:22]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-11:46:22]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-02-11:46:22]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-11:46:22]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-02-11:46:22]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-11:46:22]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-11:46:22]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-11:46:24]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-02-11:46:24]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-02-11:46:43]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-11:46:43]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-11:46:44]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-02-11:46:44]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-11:46:44]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-02-11:46:44]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-11:46:44]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-11:46:44]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-11:46:45]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-02-11:46:45]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-02-11:46:45]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-02-11:46:45]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-02-11:48:05]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-11:48:05]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-11:48:07]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-02-11:48:07]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-11:48:07]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-02-11:48:07]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-11:48:07]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-11:48:07]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-11:48:08]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-02-11:48:08]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-02-11:48:08]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-02-11:48:08]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-02-11:57:04]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-11:57:04]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-11:57:05]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-02-11:57:05]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-11:57:05]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-02-11:57:05]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-11:57:05]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-11:57:05]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-11:57:06]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-02-11:57:06]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-02-11:57:06]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-02-11:57:06]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-02-12:05:51]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-12:05:51]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-12:05:53]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-02-12:05:53]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-12:05:53]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-02-12:05:53]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-12:05:53]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-12:05:53]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-12:05:54]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-02-12:05:54]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-02-12:05:54]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-02-12:05:54]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-02-12:07:13]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-12:07:13]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-12:07:14]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-02-12:07:14]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-12:07:14]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-02-12:07:14]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-12:07:14]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-12:07:14]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-12:07:16]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-02-12:07:17]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-02-12:07:17]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-02-12:07:17]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-02-12:14:00]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-12:14:00]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-12:14:03]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-02-12:14:03]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-12:14:03]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-02-12:14:03]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-12:14:03]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-12:14:03]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-12:14:07]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-02-12:14:07]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-02-12:49:54]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-12:49:54]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-12:49:55]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-02-12:49:55]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-12:49:55]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-02-12:49:55]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-12:49:55]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-12:49:55]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-12:49:58]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-02-12:49:59]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-02-12:56:29]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-12:56:29]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-12:56:30]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-02-12:56:30]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-12:56:30]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-02-12:56:30]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-12:56:30]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-12:56:30]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-12:56:31]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-02-12:56:31]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-02-12:57:11]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-12:57:11]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-12:57:12]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-02-12:57:12]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-12:57:12]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-02-12:57:12]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-12:57:12]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-12:57:12]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-12:57:13]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-02-12:57:14]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-02-12:57:34]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-12:57:34]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-12:57:34]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-02-12:57:34]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-12:57:34]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-02-12:57:34]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-12:57:34]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-12:57:34]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-12:57:36]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-02-12:57:37]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-02-12:58:28]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-12:58:28]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-12:58:30]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-02-12:58:30]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-12:58:30]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-02-12:58:30]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-12:58:30]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-12:58:30]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-12:58:33]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-02-12:58:33]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-02-13:00:17]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-13:00:17]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-13:00:19]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-02-13:00:19]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-13:00:19]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-02-13:00:19]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-13:00:19]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-13:00:19]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-13:00:21]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-02-13:00:22]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-02-15:11:50]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-02-15:11:50]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-02-15:11:52]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-02-15:11:52]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-02-15:11:52]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-02-15:11:52]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-02-15:11:52]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-02-15:11:52]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-02-15:11:55]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-02-15:12:00]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-03-11:36:13]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-03-11:36:13]: Compression_screener_logger-INFO-Successfully retrieved login configuration.:
+[2026-03-03-11:37:04]: Compression_screener_logger-INFO-Access token and timestamp saved successfully in config.yaml:
+[2026-03-03-11:37:04]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-03-11:37:04]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-03-11:37:04]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-03-11:37:04]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-03-11:37:04]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-03-11:37:07]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-03-11:37:08]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-03-11:37:47]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-03-11:37:47]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-03-11:37:47]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-03-11:37:47]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-03-11:37:47]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-03-11:37:47]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-03-11:37:47]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-03-11:37:47]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-03-11:37:48]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-03-11:37:49]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-03-11:40:29]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-03-11:40:29]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-03-11:40:31]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-03-11:40:31]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-03-11:40:31]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-03-11:40:31]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-03-11:40:31]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-03-11:40:31]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-03-11:40:32]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-03-11:40:34]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-03-11:41:04]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-03-11:41:04]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-03-11:41:06]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-03-11:41:06]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-03-11:41:06]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-03-11:41:06]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-03-11:41:06]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-03-11:41:06]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-03-11:41:07]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-03-11:41:09]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-03-11:41:09]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-03-11:41:09]: Compression_screener_logger-ERROR-COMPRESSION SCREENING PHASE failed: 'Column not found: range':
+Traceback (most recent call last):
+  File "C:\Users\Dileep Sathya\OneDrive\Desktop\financial markets\compression_screener\main.py", line 36, in screening
+    scr=CMPScreener()
+  File "C:\Users\Dileep Sathya\OneDrive\Desktop\financial markets\compression_screener\src\components\compression_screener_2.py", line 12, in __init__
+    self._prepare_data()
+  File "C:\Users\Dileep Sathya\OneDrive\Desktop\financial markets\compression_screener\src\components\compression_screener_2.py", line 27, in _prepare_data
+    self.df.groupby('symbol')['range']
+  File "C:\Users\srika\AppData\Local\Programs\Python\Python39\lib\site-packages\pandas\core\groupby\generic.py", line 1951, in __getitem__
+    return super().__getitem__(key)
+  File "C:\Users\srika\AppData\Local\Programs\Python\Python39\lib\site-packages\pandas\core\base.py", line 244, in __getitem__
+    raise KeyError(f"Column not found: {key}")
+KeyError: 'Column not found: range'
+[2026-03-03-11:42:39]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-03-11:42:39]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-03-11:42:40]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-03-11:42:40]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-03-11:42:40]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-03-11:42:40]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-03-11:42:40]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-03-11:42:40]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-03-11:42:43]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-03-11:42:44]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-03-11:42:44]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-03-11:42:45]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-03-11:52:18]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-03-11:52:18]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-03-11:52:19]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-03-11:52:19]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-03-11:52:19]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-03-11:52:19]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-03-11:52:19]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-03-11:52:19]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-03-11:52:20]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-03-11:52:22]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-03-11:52:22]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-03-11:52:23]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-03-11:52:43]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-03-11:52:43]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-03-11:52:44]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-03-11:52:44]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-03-11:52:44]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-03-11:52:44]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-03-11:52:44]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-03-11:52:44]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-03-11:52:45]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-03-11:52:47]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-03-11:52:47]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-03-11:52:47]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-03-11:55:39]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-03-11:55:39]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-03-11:55:40]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-03-11:55:40]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-03-11:55:40]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-03-11:55:40]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-03-11:55:40]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-03-11:55:40]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-03-11:55:41]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-03-11:55:46]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-03-11:55:46]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-03-11:55:47]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-03-11:58:19]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-03-11:58:19]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-03-11:58:20]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-03-11:58:20]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-03-11:58:20]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-03-11:58:20]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-03-11:58:20]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-03-11:58:20]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-03-11:58:21]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-03-11:58:23]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-03-11:58:23]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-03-11:58:24]: Compression_screener_logger-ERROR-COMPRESSION SCREENING PHASE failed: 'CMPScreener' object has no attribute 'signals':
+Traceback (most recent call last):
+  File "C:\Users\Dileep Sathya\OneDrive\Desktop\financial markets\compression_screener\main.py", line 37, in screening
+    signals=scr.generate_signals()
+  File "C:\Users\Dileep Sathya\OneDrive\Desktop\financial markets\compression_screener\src\components\compression_screener_2.py", line 53, in generate_signals
+    latest_date = self.signals['date'].max()
+AttributeError: 'CMPScreener' object has no attribute 'signals'
+[2026-03-03-12:01:38]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-03-12:01:38]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-03-12:01:40]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-03-12:01:40]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-03-12:01:40]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-03-12:01:40]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-03-12:01:40]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-03-12:01:40]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-03-12:01:42]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-03-12:01:43]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-03-12:01:43]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-03-12:01:44]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-03-12:02:01]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-03-12:02:01]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-03-12:02:03]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-03-12:02:03]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-03-12:02:03]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-03-12:02:03]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-03-12:02:03]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-03-12:02:03]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-03-12:02:04]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-03-12:02:05]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-03-12:02:05]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-03-12:02:06]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-03-12:03:15]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-03-12:03:15]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-03-12:03:16]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-03-12:03:16]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-03-12:03:16]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-03-12:03:16]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-03-12:03:16]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-03-12:03:16]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-03-12:03:17]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-03-12:03:19]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-03-12:03:19]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-03-12:03:19]: Compression_screener_logger-ERROR-COMPRESSION SCREENING PHASE failed: sort_values() takes 1 positional argument but 2 were given:
+Traceback (most recent call last):
+  File "C:\Users\Dileep Sathya\OneDrive\Desktop\financial markets\compression_screener\main.py", line 37, in screening
+    signals=scr.generate_signals()
+  File "C:\Users\Dileep Sathya\OneDrive\Desktop\financial markets\compression_screener\src\components\compression_screener_2.py", line 53, in generate_signals
+    print(signals['date'].max()==signals['date'].sort_values('date').tail(1))
+TypeError: sort_values() takes 1 positional argument but 2 were given
+[2026-03-03-12:03:35]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-03-12:03:35]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-03-12:03:36]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-03-12:03:36]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-03-12:03:36]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-03-12:03:36]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-03-12:03:36]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-03-12:03:36]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-03-12:03:37]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-03-12:03:39]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-03-12:03:39]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-03-12:03:40]: Compression_screener_logger-ERROR-COMPRESSION SCREENING PHASE failed: sort_values() takes 1 positional argument but 2 were given:
+Traceback (most recent call last):
+  File "C:\Users\Dileep Sathya\OneDrive\Desktop\financial markets\compression_screener\main.py", line 37, in screening
+    signals=scr.generate_signals()
+  File "C:\Users\Dileep Sathya\OneDrive\Desktop\financial markets\compression_screener\src\components\compression_screener_2.py", line 53, in generate_signals
+    print(signals['date'].max()==signals['date'].sort_values('date').tail(0))
+TypeError: sort_values() takes 1 positional argument but 2 were given
+[2026-03-03-12:07:48]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-03-12:07:48]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-03-12:07:49]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-03-12:07:49]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-03-12:07:49]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-03-12:07:49]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-03-12:07:49]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-03-12:07:49]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-03-12:07:51]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-03-12:07:53]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-03-12:07:53]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-03-12:07:53]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-03-12:09:06]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-03-12:09:06]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-03-12:09:06]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-03-12:09:06]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-03-12:09:06]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-03-12:09:06]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-03-12:09:06]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-03-12:09:06]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-03-12:09:06]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-03-12:09:08]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-03-12:09:08]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-03-12:09:09]: Compression_screener_logger-ERROR-COMPRESSION SCREENING PHASE failed: 'Timestamp' object is not subscriptable:
+Traceback (most recent call last):
+  File "C:\Users\Dileep Sathya\OneDrive\Desktop\financial markets\compression_screener\main.py", line 37, in screening
+    signals=scr.generate_signals()
+  File "C:\Users\Dileep Sathya\OneDrive\Desktop\financial markets\compression_screener\src\components\compression_screener_2.py", line 53, in generate_signals
+    print(signals['date'].max()[:9])
+TypeError: 'Timestamp' object is not subscriptable
+[2026-03-03-12:09:55]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-03-12:09:55]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-03-12:09:57]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-03-12:09:57]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-03-12:09:57]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-03-12:09:57]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-03-12:09:57]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-03-12:09:57]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-03-12:09:58]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-03-12:10:00]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-03-12:10:00]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-03-12:10:00]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-03-12:10:31]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-03-12:10:31]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-03-12:10:32]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-03-12:10:32]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-03-12:10:32]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-03-12:10:32]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-03-12:10:32]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-03-12:10:32]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-03-12:10:34]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-03-12:10:35]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-03-12:10:35]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-03-12:10:35]: Compression_screener_logger-ERROR-COMPRESSION SCREENING PHASE failed: 'DataFrame' object has no attribute 'signals':
+Traceback (most recent call last):
+  File "C:\Users\Dileep Sathya\OneDrive\Desktop\financial markets\compression_screener\main.py", line 37, in screening
+    signals=scr.generate_signals()
+  File "C:\Users\Dileep Sathya\OneDrive\Desktop\financial markets\compression_screener\src\components\compression_screener_2.py", line 55, in generate_signals
+    return signals[['symbol', 'date', 'range']].sort_values('date').signals['date'].max()
+  File "C:\Users\srika\AppData\Local\Programs\Python\Python39\lib\site-packages\pandas\core\generic.py", line 6299, in __getattr__
+    return object.__getattribute__(self, name)
+AttributeError: 'DataFrame' object has no attribute 'signals'
+[2026-03-03-12:13:35]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-03-12:13:35]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-03-12:13:36]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-03-12:13:36]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-03-12:13:36]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-03-12:13:36]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-03-12:13:36]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-03-12:13:36]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-03-12:13:36]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-03-12:13:38]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-03-12:13:38]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-03-12:13:38]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-03-12:14:44]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-03-12:14:44]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-03-12:14:45]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-03-12:14:45]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-03-12:14:45]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-03-12:14:45]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-03-12:14:45]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-03-12:14:45]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-03-12:14:46]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-03-12:14:47]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-03-12:14:47]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-03-12:14:47]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-03-12:15:31]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-03-12:15:31]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-03-12:15:32]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-03-12:15:32]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-03-12:15:32]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-03-12:15:32]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-03-12:15:32]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-03-12:15:32]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-03-12:15:33]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-03-12:15:34]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-03-12:15:34]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-03-12:15:35]: Compression_screener_logger-ERROR-COMPRESSION SCREENING PHASE failed: "['1_percentile_rank'] not in index":
+Traceback (most recent call last):
+  File "C:\Users\Dileep Sathya\OneDrive\Desktop\financial markets\compression_screener\main.py", line 37, in screening
+    signals=scr.generate_signals()
+  File "C:\Users\Dileep Sathya\OneDrive\Desktop\financial markets\compression_screener\src\components\compression_screener_2.py", line 56, in generate_signals
+    return latest[['symbol','date','range','percentile_rank','1_percentile_rank']]
+  File "C:\Users\srika\AppData\Local\Programs\Python\Python39\lib\site-packages\pandas\core\series.py", line 1153, in __getitem__
+    return self._get_with(key)
+  File "C:\Users\srika\AppData\Local\Programs\Python\Python39\lib\site-packages\pandas\core\series.py", line 1194, in _get_with
+    return self.loc[key]
+  File "C:\Users\srika\AppData\Local\Programs\Python\Python39\lib\site-packages\pandas\core\indexing.py", line 1191, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "C:\Users\srika\AppData\Local\Programs\Python\Python39\lib\site-packages\pandas\core\indexing.py", line 1420, in _getitem_axis
+    return self._getitem_iterable(key, axis=axis)
+  File "C:\Users\srika\AppData\Local\Programs\Python\Python39\lib\site-packages\pandas\core\indexing.py", line 1360, in _getitem_iterable
+    keyarr, indexer = self._get_listlike_indexer(key, axis)
+  File "C:\Users\srika\AppData\Local\Programs\Python\Python39\lib\site-packages\pandas\core\indexing.py", line 1558, in _get_listlike_indexer
+    keyarr, indexer = ax._get_indexer_strict(key, axis_name)
+  File "C:\Users\srika\AppData\Local\Programs\Python\Python39\lib\site-packages\pandas\core\indexes\base.py", line 6200, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\srika\AppData\Local\Programs\Python\Python39\lib\site-packages\pandas\core\indexes\base.py", line 6252, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['1_percentile_rank'] not in index"
+[2026-03-03-12:15:54]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-03-12:15:54]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-03-12:15:55]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-03-12:15:55]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-03-12:15:55]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-03-12:15:55]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-03-12:15:55]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-03-12:15:55]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-03-12:15:55]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-03-12:15:57]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-03-12:15:57]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-03-12:15:57]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-04-05:55:37]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-04-05:55:37]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-04-05:55:41]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-04-05:55:41]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-04-05:55:41]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-04-05:55:41]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-04-05:55:41]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-04-05:55:41]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-04-05:55:46]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-04-05:55:50]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-04-05:55:50]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-04-05:55:50]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-05-09:22:41]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-05-09:22:41]: Compression_screener_logger-INFO-Successfully retrieved login configuration.:
+[2026-03-05-09:24:04]: Compression_screener_logger-INFO-Access token and timestamp saved successfully in config.yaml:
+[2026-03-05-09:24:04]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-05-09:24:04]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-05-09:24:04]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-05-09:24:04]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-05-09:24:04]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-05-09:24:06]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-05-09:24:08]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-05-09:24:08]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-05-09:24:08]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-06-09:33:19]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-06-09:33:19]: Compression_screener_logger-INFO-Successfully retrieved login configuration.:
+[2026-03-06-09:34:14]: Compression_screener_logger-INFO-Access token and timestamp saved successfully in config.yaml:
+[2026-03-06-09:34:14]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-06-09:34:14]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-06-09:34:14]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-06-09:34:14]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-06-09:34:14]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-06-09:34:16]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-06-09:34:18]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-06-09:34:18]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-06-09:34:18]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-08-22:28:21]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-08-22:28:21]: Compression_screener_logger-INFO-Successfully retrieved login configuration.:
+[2026-03-08-22:28:47]: Compression_screener_logger-INFO-Access token and timestamp saved successfully in config.yaml:
+[2026-03-08-22:28:47]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-08-22:28:47]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-08-22:28:47]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-08-22:28:47]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-08-22:28:47]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-08-22:28:51]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-08-22:28:52]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-08-22:28:52]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-08-22:28:53]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-08-22:34:50]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-08-22:34:50]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-08-22:34:52]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-08-22:34:52]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-08-22:34:52]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-08-22:34:52]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-08-22:34:52]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-08-22:34:52]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-08-22:34:54]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-08-22:34:59]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-08-22:34:59]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-08-22:35:01]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-09-10:36:23]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-09-10:36:23]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-09-10:36:29]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-09-10:36:29]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-09-10:36:29]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-09-10:36:29]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-09-10:36:29]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-09-10:36:29]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-09-10:36:31]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-09-10:36:53]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-09-10:36:53]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-09-10:36:53]: Compression_screener_logger-ERROR-COMPRESSION SCREENING PHASE failed: 'symbol':
+Traceback (most recent call last):
+  File "C:\Users\Dileep Sathya\OneDrive\Desktop\financial markets\compression_screener\main.py", line 36, in screening
+    scr=CMPScreener()
+  File "C:\Users\Dileep Sathya\OneDrive\Desktop\financial markets\compression_screener\src\components\compression_screener_2.py", line 13, in __init__
+    self.df = self._load_data()
+  File "C:\Users\Dileep Sathya\OneDrive\Desktop\financial markets\compression_screener\src\components\compression_screener_2.py", line 19, in _load_data
+    df = df.sort_values(['symbol', 'date']).copy()
+  File "C:\Users\srika\AppData\Local\Programs\Python\Python39\lib\site-packages\pandas\core\frame.py", line 7172, in sort_values
+    keys = [self._get_label_or_level_values(x, axis=axis) for x in by]
+  File "C:\Users\srika\AppData\Local\Programs\Python\Python39\lib\site-packages\pandas\core\frame.py", line 7172, in <listcomp>
+    keys = [self._get_label_or_level_values(x, axis=axis) for x in by]
+  File "C:\Users\srika\AppData\Local\Programs\Python\Python39\lib\site-packages\pandas\core\generic.py", line 1911, in _get_label_or_level_values
+    raise KeyError(key)
+KeyError: 'symbol'
+[2026-03-09-10:38:20]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-09-10:38:20]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-09-10:38:26]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-09-10:38:26]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-09-10:38:26]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-09-10:38:26]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-09-10:38:26]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-09-10:38:26]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-09-10:38:36]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-09-10:38:36]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-09-10:38:36]: Compression_screener_logger-INFO-Successfully retrieved login configuration.:
+[2026-03-09-10:39:33]: Compression_screener_logger-INFO-Access token and timestamp saved successfully in config.yaml:
+[2026-03-09-10:39:33]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-09-10:39:33]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-09-10:39:33]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-09-10:39:33]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-09-10:39:33]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-09-10:39:35]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-09-10:41:44]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-09-10:41:44]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-09-10:41:51]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-09-10:42:33]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-09-10:42:33]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-09-10:42:34]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-09-10:42:34]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-09-10:42:34]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-09-10:42:34]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-09-10:42:34]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-09-10:42:34]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-09-10:42:37]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-09-10:43:16]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-09-10:43:16]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-09-10:43:21]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-09-10:57:53]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-09-10:57:53]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-09-10:57:54]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-09-10:57:54]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-09-10:57:54]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-09-10:57:54]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-09-10:57:54]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-09-10:57:54]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-09-10:57:55]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-09-10:58:13]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-09-10:58:13]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-09-10:58:13]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-09-11:01:30]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-09-11:01:30]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-09-11:01:31]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-09-11:01:31]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-09-11:01:31]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-09-11:01:31]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-09-11:01:31]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-09-11:01:31]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-09-11:01:34]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-09-11:02:02]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-09-11:02:02]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-09-11:02:03]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-09-11:02:03]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-09-11:02:03]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-09-11:02:03]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-09-11:02:03]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-09-11:02:03]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-09-11:02:04]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-09-11:02:41]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-09-11:02:41]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-09-11:02:41]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-09-11:02:41]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-09-11:02:41]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-09-11:02:41]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-09-11:02:41]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-09-11:02:41]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-09-11:02:43]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-09-11:03:19]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-09-11:03:19]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-09-11:03:23]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-09-18:53:55]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-09-18:53:55]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-09-18:53:57]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-09-18:53:57]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-09-18:53:57]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-09-18:53:57]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-09-18:53:57]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-09-18:53:57]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-09-18:53:58]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-09-18:54:24]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-09-18:54:24]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-09-18:54:26]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-10-18:04:52]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-10-18:04:52]: Compression_screener_logger-INFO-Successfully retrieved login configuration.:
+[2026-03-10-18:05:44]: Compression_screener_logger-INFO-Access token and timestamp saved successfully in config.yaml:
+[2026-03-10-18:05:44]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-10-18:05:44]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-10-18:05:44]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-10-18:05:44]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-10-18:05:44]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-10-18:05:46]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-10-18:06:06]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-10-18:06:06]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-10-18:06:09]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-11-18:16:31]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-11-18:16:31]: Compression_screener_logger-INFO-Successfully retrieved login configuration.:
+[2026-03-11-18:17:38]: Compression_screener_logger-INFO-Access token and timestamp saved successfully in config.yaml:
+[2026-03-11-18:17:38]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-11-18:17:38]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-11-18:17:38]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-11-18:17:38]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-11-18:17:38]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-11-18:17:41]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-11-18:18:17]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-11-18:18:17]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-11-18:18:20]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-12-16:00:07]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-12-16:00:07]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-12-16:00:09]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-12-16:00:09]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-12-16:00:09]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-12-16:00:09]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-12-16:00:09]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-12-16:00:09]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-12-16:00:33]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-12-16:00:33]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-12-16:00:35]: Compression_screener_logger-INFO-Successfully retrieved login configuration.:
+[2026-03-12-16:01:25]: Compression_screener_logger-INFO-Access token and timestamp saved successfully in config.yaml:
+[2026-03-12-16:01:25]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-12-16:01:25]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-12-16:01:25]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-12-16:01:25]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-12-16:01:25]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-12-16:01:29]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-12-16:01:58]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-12-16:01:58]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-12-16:02:00]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-13-18:03:09]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-13-18:03:09]: Compression_screener_logger-INFO-Successfully retrieved login configuration.:
+[2026-03-13-18:03:10]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-13-18:03:10]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-13-18:03:10]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-13-18:03:10]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-13-18:03:10]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-13-18:03:30]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-13-18:03:30]: Compression_screener_logger-INFO-Successfully retrieved login configuration.:
+[2026-03-13-18:04:18]: Compression_screener_logger-INFO-Access token and timestamp saved successfully in config.yaml:
+[2026-03-13-18:04:18]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-13-18:04:18]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-13-18:04:18]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-13-18:04:18]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-13-18:04:18]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-13-18:04:23]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-13-18:05:16]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-13-18:05:16]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-13-18:05:22]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-16-18:31:06]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-16-18:31:06]: Compression_screener_logger-INFO-Successfully retrieved login configuration.:
+[2026-03-16-18:31:29]: Compression_screener_logger-INFO-Access token and timestamp saved successfully in config.yaml:
+[2026-03-16-18:31:29]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-16-18:31:29]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-16-18:31:29]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-16-18:31:29]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-16-18:31:29]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-16-18:31:32]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-16-18:31:46]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-16-18:31:46]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-16-18:31:48]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-18-13:09:08]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-18-13:09:08]: Compression_screener_logger-INFO-Successfully retrieved login configuration.:
+[2026-03-18-13:14:49]: Compression_screener_logger-INFO-Access token and timestamp saved successfully in config.yaml:
+[2026-03-18-13:14:49]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-18-13:14:49]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-18-13:14:49]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-18-13:14:49]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-18-13:14:49]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-18-13:14:54]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-18-13:15:30]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-18-13:15:30]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-18-13:15:32]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-18-19:01:55]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-18-19:01:55]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-18-19:01:58]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-18-19:01:58]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-18-19:01:58]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-18-19:01:58]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-18-19:01:58]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-18-19:01:58]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-18-19:02:00]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-18-19:02:40]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-18-19:02:40]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-18-19:02:41]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-18-21:14:17]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-18-21:14:17]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-18-21:14:23]: Compression_screener_logger-INFO-Login skipped by user choice.:
+[2026-03-18-21:14:23]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-18-21:14:23]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-18-21:14:23]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-18-21:14:23]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-18-21:14:23]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-18-21:14:24]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-18-21:14:56]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-18-21:14:56]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-18-21:14:58]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-19-20:08:41]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-19-20:08:41]: Compression_screener_logger-INFO-Successfully retrieved login configuration.:
+[2026-03-19-20:09:27]: Compression_screener_logger-INFO-Access token and timestamp saved successfully in config.yaml:
+[2026-03-19-20:09:27]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-19-20:09:27]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-19-20:09:27]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-19-20:09:27]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-19-20:09:27]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-19-20:09:29]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-19-20:10:11]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-19-20:10:11]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-19-20:10:13]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-23-19:39:32]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-23-19:39:32]: Compression_screener_logger-INFO-Successfully retrieved login configuration.:
+[2026-03-23-19:39:58]: Compression_screener_logger-INFO-Access token and timestamp saved successfully in config.yaml:
+[2026-03-23-19:39:58]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-23-19:39:58]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-23-19:39:58]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-23-19:39:59]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-23-19:39:59]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-23-19:40:02]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-23-19:40:20]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-23-19:40:20]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-23-19:40:22]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-24-19:20:40]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-24-19:20:40]: Compression_screener_logger-INFO-Previous login is still valid. Skipping login step by default.:
+[2026-03-24-19:20:47]: Compression_screener_logger-INFO-Successfully retrieved login configuration.:
+[2026-03-24-19:21:46]: Compression_screener_logger-INFO-Access token and timestamp saved successfully in config.yaml:
+[2026-03-24-19:21:46]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-24-19:21:46]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-24-19:21:46]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-24-19:21:46]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-24-19:21:46]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-24-19:21:49]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-24-19:22:10]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-24-19:22:10]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-24-19:22:12]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-25-19:23:10]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-25-19:23:10]: Compression_screener_logger-INFO-Successfully retrieved login configuration.:
+[2026-03-25-19:24:34]: Compression_screener_logger-INFO-Access token and timestamp saved successfully in config.yaml:
+[2026-03-25-19:24:34]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-25-19:24:34]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-25-19:24:34]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-25-19:24:34]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-25-19:24:34]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-25-19:24:38]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-25-19:24:58]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-25-19:24:58]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-25-19:25:00]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-29-11:00:09]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-29-11:00:09]: Compression_screener_logger-INFO-Successfully retrieved login configuration.:
+[2026-03-29-11:00:59]: Compression_screener_logger-INFO-Access token and timestamp saved successfully in config.yaml:
+[2026-03-29-11:00:59]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-29-11:00:59]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-29-11:00:59]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-29-11:00:59]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-29-11:00:59]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-29-11:01:02]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-29-11:01:31]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-29-11:01:31]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-29-11:01:33]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
+[2026-03-30-19:58:05]: Compression_screener_logger-INFO------login Stage-----:
+[2026-03-30-19:58:05]: Compression_screener_logger-INFO-Successfully retrieved login configuration.:
+[2026-03-30-19:59:10]: Compression_screener_logger-INFO-Access token and timestamp saved successfully in config.yaml:
+[2026-03-30-19:59:10]: Compression_screener_logger-INFO-login Stage sucessful:
+[2026-03-30-19:59:10]: Compression_screener_logger-INFO------user information- Stage-----:
+[2026-03-30-19:59:10]: Compression_screener_logger-INFO-Accessing client_id and acesstoken:
+[2026-03-30-19:59:10]: Compression_screener_logger-INFO-Successfully retrieved authentication code.:
+[2026-03-30-19:59:10]: Compression_screener_logger-INFO-Accessing client_id and acesstoken successful:
+[2026-03-30-19:59:13]: Compression_screener_logger-INFO-symbol list retrieved successful:
+[2026-03-30-19:59:32]: Compression_screener_logger-INFO-user information- Stage sucessful:
+[2026-03-30-19:59:32]: Compression_screener_logger-INFO------ COMPRESSION SCREENING PHASE -----:
+[2026-03-30-19:59:34]: Compression_screener_logger-INFO-COMPRESSION SCREENING PHASE successful:
